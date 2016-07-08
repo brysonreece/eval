@@ -26,6 +26,6 @@ Want to contribute to the development of E.V.A.L.? Simply fork us and make a pul
 
 <hr>
 
-[![Built With ❤️](http://forthebadge.com/images/badges/built-with-love.svg)]
+[![Built With ❤️](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com/)
 
 _Google Cardboard is a trademark of Google Inc._
