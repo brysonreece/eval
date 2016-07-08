@@ -18,3 +18,6 @@ E.V.A.L. uses a number of projects to work properly:
 * [Flat UI](https://github.com/designmodo/Flat-UI) - a great UI boilerplate to build our web interface around
 
 And of course E.V.A.L. itself is open source under the MIT License.
+
+
+_Google Cardboard is a trademark of Google Inc._
